@@ -5,3 +5,6 @@ I am making changes in this file while
 
 MASTER CHANGES
 This change is being made on master branch
+
+Branch Feature-2
+Changes on branch feature2.
